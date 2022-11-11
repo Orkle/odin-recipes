@@ -1,6 +1,18 @@
+* {
+    background-image: url('orkle-bg.png');
+}
+
 #title {
-    background-color: #F2E67A;
     font-family: AlphaWood, Arial, Helvetica;
-    font-size: 56px;
+    font-size: 72px;
     text-align: center;
 }
+
+#header {
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+
+
+a:link{text-decoration: none;}
